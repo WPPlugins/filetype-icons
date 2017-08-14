@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mime Type Icons\n"
+"POT-Creation-Date: 2013-02-19 11:12+0100\n"
+"PO-Revision-Date: 2013-02-19 11:19+0100\n"
+"Last-Translator: Ralf Weber <ralf@weber-nrw.de>\n"
+"Language-Team: Ralf Weber\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mime-type-icons.php:161
+msgid "Choose icon size"
+msgstr "Wähle Icon größe"
+
+#: ../mime-type-icons.php:167
+msgid ""
+"The used icon sets are licensed under a Creative Commons Attribution 3.0 "
+"License by"
+msgstr ""
+"Die benutzen Bilder stehen unter der 'Creative Commons Attribution 3.0 "
+"License' von"
+
+#: ../mime-type-icons.php:167 ../mime-type-icons.php:207
+msgid ". Thanks."
+msgstr ". Danke."
+
+#: ../mime-type-icons.php:173
+msgid "Apply to..."
+msgstr "Anwenden auf..."
+
+#: ../mime-type-icons.php:175
+msgid "the post content"
+msgstr "den Artikel/Seiten Inhalt"
+
+#: ../mime-type-icons.php:176
+msgid "the post excerpt (or post content, if there is no excerpt)"
+msgstr ""
+"den Artikel/Seiten Auszug ( oder Seiten/Artikel Inhalt, wenn kein Auszug "
+"vorhanden ist)"
+
+#: ../mime-type-icons.php:177
+msgid "the comment text"
+msgstr "Kommentare"
+
+#: ../mime-type-icons.php:178
+msgid "the widget text"
+msgstr "Widget Inhalt"
+
+#: ../mime-type-icons.php:184
+msgid "CSS"
+msgstr "CSS"
+
+#: ../mime-type-icons.php:186
+msgid "Add your own css for the img-tag. Be carefull: no syntax check!"
+msgstr ""
+"Füge Dein eigenes CSS zum img-tag hinzu. Aber Vorsicht: keine Syntax Prüfung!"
+
+#: ../mime-type-icons.php:192
+msgid "Database Options"
+msgstr "Datenbank Optionen"
+
+#: ../mime-type-icons.php:194
+msgid "Restore defaults"
+msgstr "Standards wiederherstellen"
+
+#: ../mime-type-icons.php:200
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: ../mime-type-icons.php:207
+msgid "If you have found this plugin at all useful, please consider making a "
+msgstr ""
+
+#: ../mime-type-icons.php:207
+msgid "donation"
+msgstr ""
